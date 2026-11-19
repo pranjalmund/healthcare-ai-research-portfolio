@@ -203,3 +203,4 @@ print("have been saved in the project folders.")
 print("\nIMPORTANT:")
 print("This project uses synthetic data.")
 print("It is not a diagnostic or clinical tool.")
+# Project 1: Healthcare Data Exploration
