@@ -1,0 +1,11 @@
+PROJECT 2: ANAEMIA DATA ANALYSIS
+
+Dataset: NFHS-5 (2019-21), State/UT-wise anaemia prevalence.
+Source: Government of India, Lok Sabha Unstarred Question No. 1953, answered on 02 August 2024.
+Source URL: https://sansad.in/getFile/loksabhaquestions/annex/182/AU1953_osmtyG.pdf
+
+Analysis includes descriptive statistics, data quality checks, state-wise comparisons, visualisations and exploratory correlations.
+
+The average across States/UTs is unweighted and should not be interpreted as national prevalence.
+
+This is an ecological descriptive analysis. It does not establish causation or provide individual diagnosis or clinical advice.
