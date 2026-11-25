@@ -1,0 +1,30 @@
+PROJECT 3: DIABETES RISK PREDICTION
+
+Dataset:
+CDC Behavioral Risk Factor Surveillance System (BRFSS) 2015,
+using a Kaggle-hosted copy of the dataset.
+
+Target categories:
+0 = No diabetes
+1 = Prediabetes
+2 = Diabetes
+
+Analysis:
+- Data quality assessment
+- Descriptive statistics
+- Health indicator comparisons
+- Correlation analysis
+- Three-class Logistic Regression baseline
+- Class balancing during model training
+- Evaluation using accuracy, balanced accuracy,
+  macro F1-score, classification report and confusion matrix
+
+Important limitations:
+- The dataset is based on self-reported survey information.
+- It represents a US survey from 2015, not the Indian population.
+- The target categories are imbalanced.
+- Identical rows were not automatically removed.
+- Associations do not establish causation.
+- The model is an educational research prototype.
+- It has not been clinically validated and must not be
+  used for diagnosis, screening or treatment decisions.

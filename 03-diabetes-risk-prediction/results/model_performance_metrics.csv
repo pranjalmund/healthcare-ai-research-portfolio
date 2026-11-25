@@ -1,0 +1,4 @@
+Metric,Score
+Accuracy,0.6458
+Balanced Accuracy,0.5242
+Macro F1 Score,0.4269
