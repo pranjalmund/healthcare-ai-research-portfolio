@@ -1,0 +1,28 @@
+
+PROJECT 4: DENGUE OUTBREAK ANALYSIS IN INDIA
+
+Dataset:
+Official state/UT-wise reported dengue cases and deaths,
+2021–2025.
+
+Analysis performed:
+1. Data quality assessment.
+2. Year-wise reported cases and deaths.
+3. State/UT-wise case and death totals.
+4. Top 10 States/UTs by reported cases.
+5. Reported case fatality ratio calculation.
+6. Year-to-year change in reported cases.
+7. State/UT-wise trend visualisation.
+
+Important limitations:
+- These are reported surveillance figures, not estimates
+  of all dengue infections.
+- Missing values are not treated as zero.
+- State/UT totals are not population-adjusted incidence rates.
+- CFR is calculated as reported deaths divided by reported
+  cases. It is not an infection fatality rate.
+- Differences in reporting and surveillance may affect
+  comparisons between States/UTs and years.
+- The dataset does not establish causation.
+- This is a descriptive public health analysis, not a
+  clinical prediction or diagnostic tool.
